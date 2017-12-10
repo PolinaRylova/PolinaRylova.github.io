@@ -1,2 +1,2 @@
 # PolinaRylova.github.io
-I study js and do exercises (use as hosting)
+I study html, css, js and do exercises (use as hosting)
